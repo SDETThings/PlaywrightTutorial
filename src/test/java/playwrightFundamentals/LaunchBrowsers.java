@@ -1,4 +1,4 @@
-package playwrightElement;
+package playwrightFundamentals;
 
 public class LaunchBrowsers {
 }
